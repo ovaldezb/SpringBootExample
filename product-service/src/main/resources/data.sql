@@ -1,4 +1,3 @@
-CREATE TABLE tbl_categories ;
 INSERT INTO tbl_categories (id, name) VALUES (1, 'shoes');
 INSERT INTO tbl_categories (id, name) VALUES (2, 'books');
 INSERT INTO tbl_categories (id, name) VALUES (3, 'electronics');
